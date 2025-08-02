@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Launching Lambda with handler: $LAMBDA_HANDLER"
+exec java -cp "/var/task/*" com.amazonaws.services.lambda.runtime.api.client.AWSLambda "$LAMBDA_HANDLER"
