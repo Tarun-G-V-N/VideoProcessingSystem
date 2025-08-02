@@ -13,7 +13,7 @@ A scalable backend web application built using AWS cloud services. This project 
 ---
 ## 🏗️ Architecture
 
-![Architecture Diagram](./Architecture Screenshot.png)
+![Architecture Diagram](./Architecture%20Screenshot.png)
 
 This application follows a modular, serverless architecture hosted on AWS. Key services include:
 
