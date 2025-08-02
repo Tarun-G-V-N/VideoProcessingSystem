@@ -4,11 +4,12 @@ A scalable backend web application built using AWS cloud services. This project 
 
 ## 📌 Table of Contents
 
-- [Architecture](#-architecture)
+- [Architecture](#architecture)
 - [Tech Stack](#-tech-stack)
 - [Setup](#-setup)
-- [API Documentation](#-api-documentation)
+- [API Documentation](#api-documentation)
 - [Demo](#-demo)
+- [Deployment](#-deployment)
 
 ---
 ## 🏗️ Architecture
